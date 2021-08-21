@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a year 13 A Level mathematics student, using this blog to share cool things I learn!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[syramaths@protonmail.com](mailto:syramaths@protonmail.com)
