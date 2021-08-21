@@ -13,7 +13,7 @@ Hmm, looks like we can do something with this logarithm:
 
 e^(ln(i^i)) = e^(i ln(i))
 
-Aha! This is starting to look a lot like a number in the form e^(iθ), which we know how to find, using e^(iθ) = cosθ + i sinθ. But what exactly is ln(i)?
+Aha! This is starting to look a lot like a number in the form e^(iθ), which we do know how to find, using e^(iθ) = cosθ + i sinθ. But what exactly is ln(i)?
 
 Let's say ln(i) is equal to some number x. This means that:
 
