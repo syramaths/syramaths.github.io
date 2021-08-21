@@ -19,7 +19,7 @@ Let's say ln(i) is equal to some number x. This means that:
 
 e^x = i
 
-Looking at e^(iθ) = cosθ + i sinθ, we can see that for e^(iθ) to equal i, cosθ must equal 0, and sinθ must equal 1. This happens when 0 = π/2 radians.
+Looking at e^(iθ) = cosθ + i sinθ, we can see that for e^(iθ) to equal i, cosθ must equal 0, and sinθ must equal 1. This happens when θ = π/2 radians.
 
 Therefore, we now know that x (or ln(i)) must be iπ/2. 
 
