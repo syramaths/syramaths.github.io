@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently a year 13 A Level mathematics student, using this blog to share cool things I learn!
 
 ### More Information
 
-I am currently a year 13 A Level mathematics student, using this blog to share cool things I learn!
+At the moment I am taking 4 A Levels, including maths and further maths. In the future, I hope to attend university to study a degree in mathematics.
 
 ### Contact me
 
