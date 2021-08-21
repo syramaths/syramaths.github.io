@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a year 13 A Level mathematics student, using this blog to share cool things I learn!
+I am currently a year 13 A Level maths student, using this blog to share cool things I learn!
 
 ### More Information
 
