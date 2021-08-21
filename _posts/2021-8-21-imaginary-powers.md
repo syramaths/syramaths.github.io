@@ -26,5 +26,7 @@ Therefore, we now know that x (or ln(i)) must be iπ/2.
 And there it is! 
 
 i^i = e^(i ln(i))
+
  = e^(i * iπ/2)
+ 
  = e^(-π/2)
