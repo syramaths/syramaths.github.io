@@ -9,7 +9,7 @@ Whilst I don't know how to deal with "i to the power of something imaginary" in 
 
 i^i = e^(ln(i^i))
 
-Hm, looks like we can do something with this logarithm:
+Hmm, looks like we can do something with this logarithm:
 
 e^(ln(i^i)) = e^(i ln(i))
 
