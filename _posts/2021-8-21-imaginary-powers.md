@@ -5,7 +5,7 @@ title: Imaginary Powers
 
 In this short post, I will show you how you can find i^i.
 
-Now, I do not know how to deal with "i to the power of something imaginary" in a very nice way, but I do know how to deal with "e to the power of something imaginary". So, I will write i^i in terms of e:
+Whilst I don't know how to deal with "i to the power of something imaginary" in a very nice way, but I do know how to deal with "e to the power of something imaginary". So, I will write i^i in terms of e:
 
 i^i = e^(ln(i^i))
 
